@@ -25,3 +25,7 @@ To work with Docker objects, you typically follow these steps:
 6. Manage data: If your application needs to persist or share data, you can create and mount volumes using the `docker volume` command or specify volumes in your Dockerfile.
 
 These are just the basics of working with Docker objects. Docker provides a rich set of commands and features to manage containers, networks, and volumes, allowing you to build and deploy applications in a consistent and reproducible manner.
+
+#   Cheat Sheet: Docker CLI
+
+![Docker](https://awesomescreenshot.s3.amazonaws.com/image/3178526/40748417-1e80e2c26063025ec15ee89429dcf80a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20230614%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230614T142903Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=31ad1186e4fc344bcc649827bdeaad4e4e1bed03b4cfa5d38ced40a2793e0bb5)
